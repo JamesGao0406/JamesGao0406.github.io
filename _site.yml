@@ -1,0 +1,11 @@
+name: "my-website"
+output_dir: "docs"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "A5_interactive"
+      href: A5_interactive.html
+    - text: "About"
+      href: about.html
